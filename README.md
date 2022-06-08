@@ -40,9 +40,9 @@ The scatter above illustrates the numbers of confirmed cases of Covid-19 among 7
 
 As of May 2022, Over 520 million confirmed cases have been reported globally. This is not a bright sign as it can tell the pandemic has impacted almost every corner of life.This may probably due to an opportunity to stop the spread of the virus during its early stages was missed and it caused serious consequences for many countries such as causing economies to stall, stretching healthcare systems to the limit and governments have been forced to implement harsh restrictions on human activity to control the spread of the virus.
 
-![pie](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/Graph/pie.png)
+![pie](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/graphs/pie.png)
 
-![continent](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/Graph/continent%20bar.png)
+![continent](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/graphs/conditions.png)
 
 Two chart above Pie and Bar indicate the situation of Covid-19 throughout the world. The Pie chart is about the ratio of Covid-19 situation whereas the Bar chart is showing the total number of cases. Both charts are divide into 5 categories; confirmed, active, newcases, deaths and recovered cases.
 According to the charts, out of over 525 mil confirmed cases reported globaly, over 480 million recovered cases have been reported which is 92% cases have been recovered from the pandemic.
@@ -51,7 +51,7 @@ According to the charts, out of over 525 mil confirmed cases reported globaly, o
 It is clear that the world are getting recovered from pandemic of Covid-19. This may due to goverments around the world have been made a great efforts to emphasize on pandamic prevention and medical attention.
 Also, many countries and societies are dedicating to furthering the vaccination ever since numerous vaccines begin their roll out in countries across the world.
 
-![treemap](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/Graph/treemap.png)
+![treemap](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/graphs/sunburst.png)
 
 The diagram above describe the confirmed cases of Covid-19 of affected continents and countries around the world.
 It clearly shows that Europe is the worst affected continents and France is the highest confirmed cases in Europe which has 29 million follow by Germany and UK both countries have 26 million and 22 million total confrimed cases respectively.
@@ -60,7 +60,7 @@ Asia is the second worst affected continent and India is the top higher confirme
 The thrid goes to North America follow by South America. United States has a significant amount of total confirmed cases not only in North America but of all country, it has total 85 million confirmed cases. Brazil has 31 million confirmed cases the majority affected country in South America.
 In Oceania, Australia has the most confirmed cases. This makes sense as Australia is the largest country in this continent.
 
-![vertical](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/Graph/vertical%20bar.png)
+![vertical](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/graphs/vertical.png)
 
 The 4 bar charts above tell the situation of Covid-19 among continents with divided into 4 conditions, they are total number of confirmed cases, active cases, death cases and recovered cases.
 
@@ -70,11 +70,13 @@ Asian countries considered more successful in curbing the virus spread, it can t
 The pandemic prevention measures in North America and South America are relatively unfavorable compare to Asia, this may due to many countires are easing their restriction precaution to curb the spread of virus.
 Total cases in Oceania with 4 conditions are relatively low compare to other continents due to less population in this area.
 
-![horizontal](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/Graph/horizontal%20bar.png)
+![horizontal](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/graphs/horizontal.png)
 
 The diagram above give information of the top 10 affected countries in divided into 4 conditions of confirmed, active, death and recoverd cases in Covid-19 pandemic.
 According to charts above, United State, India and Brazil are most concentration of Covid-19 in confirmed and death cases but they also have enormous recovered. This may be due to they had plenty of case to start off with.
 
 Ukraine has climb up to 4.9 million active cases the highest of all country recently, this may due to people living in Ukraine are suffering from depression, food and financial insecurity since Russia started its war with Ukraine at the end of February. People who are concerned about residence and food security or household finances may not be able to take the same pandemic precautions as those with stable condition and good financial security.These concerns can obstruct efforts to stop the spread of Covid-19.
 
-![map](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/Graph/map.png)
+![map](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/graphs/map.png)
+
+**World Map Visualization** [Link](file:///C:/Users/User/Documents/Udemy/Pandemic/world%20map%20pandemic.html).
