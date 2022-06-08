@@ -4,6 +4,13 @@ This virus is a contagious coronavirus that outburst from Wuhan in China. This n
 # Data Sources
 Data scrapy from the website:https://news.qq.com/zt2020/page/feiyan.htm#/
 # Dependencies
-This project uses Pandas, requests, MatPlotLib,and plotly. All the code needed to run is in Covid19 Pandemic analysis.ipynb.
+This project uses Pandas, requests, MatPlotLib,and plotly. All the code needed to run is in .[Covid19 Pandemic analysis.ipynb].
 # Covid-19 Analysis and Visualization
-# Import liabraries
+# Import Libraries:
+* ``Requests``
+* ``Pandas``
+* ``Matplotlib``
+* ``pprint``
+* ``Json``
+* ``Plotly``
+* ``Plotly express``
