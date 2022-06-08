@@ -81,4 +81,3 @@ Ukraine has climb up to 4.9 million active cases the highest of all country rece
 
 ![map](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/graphs/map.png)
 
-**World Map Visualization** [Click here: Link](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/world%20map%20pandemic.html).
