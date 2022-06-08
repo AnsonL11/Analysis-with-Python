@@ -12,7 +12,7 @@ Website: https://news.qq.com/zt2020/page/feiyan.htm#/
 # Dependencies
 All the code needed to run is in [Covid19 Pandemic analysis.ipynb](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/b11d624230aedeb9478be3dc908b32c58530d0fa/Covid19%20Pandemic%20analysis.ipynb).
 
-**Jupyter nbviewer** file is here [Link file](https://nbviewer.org/urls/gist.githubusercontent.com/AnsonL11/5119423ae12bb04e96655bc9b0cde896/raw/08a16878fb817292b66a387e4dbd859d2a704770/Covid-19.ipynb#).
+**Jupyter nbviewer** file is here [Click the Link](https://nbviewer.org/urls/gist.githubusercontent.com/AnsonL11/5119423ae12bb04e96655bc9b0cde896/raw/08a16878fb817292b66a387e4dbd859d2a704770/Covid-19.ipynb#).
 
 # Import Libraries:
 * ``Requests``
@@ -81,4 +81,4 @@ Ukraine has climb up to 4.9 million active cases the highest of all country rece
 
 ![map](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/graphs/map.png)
 
-**World Map Visualization** [Click here: Link]([file:///C:/Users/User/Documents/Udemy/Pandemic/world%20map%20pandemic.html](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/world%20map%20pandemic.html)).
+**World Map Visualization** [Click here: Link](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/world%20map%20pandemic.html).
