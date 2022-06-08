@@ -1,5 +1,5 @@
 # Data Scrapy and Analysis for The Pandemic of Covid-19
-![covid19](/image/Coronavirus%20complication.jpg)
+![covid19](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/Graph/Coronavirus%20complication.jpg)
 
 This project aims to analyze and understand the spread of coronavirus throughout the world. Covid-19 is the official name of this virus which named by World Health Organization.
 
