@@ -16,3 +16,4 @@ All the code needed to run is in [Covid19 Pandemic analysis.ipynb](https://githu
 * ``Json``
 * ``Plotly``
 * ``Plotly express``
+* ``Pyecharts``
