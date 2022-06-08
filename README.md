@@ -1,5 +1,5 @@
 # Data Scrapy, Analysis and Visualization for The Pandemic of Covid-19
-![covid19](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/Graph/Coronavirus%20complication.jpg)
+![covid19](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/graphs/Coronavirus%20complication.jpg)
 
 This project aims to analyze and understand the spread of coronavirus throughout the world. Covid-19 is the official name of this virus which named by World Health Organization.
 
@@ -34,7 +34,7 @@ All the code needed to run is in [Covid19 Pandemic analysis.ipynb](https://githu
 
 # Covid-19 Analysis and Visualization
 
-![scatter](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/Graph/scatter.png)
+![scatter](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/graphs/scatters.png)
 
 The scatter above illustrates the numbers of confirmed cases of Covid-19 among 7 continents in the world. The scatter highlights that Europe is the worst affected continent compare to others as it reach to total 200 million confirmed cases. Asia is the second worst of affected continents it has 150 million confirmed cases; North Ameirica rank to the thrid and the fourth goes to South America followed by Africa and Oceania.
 
