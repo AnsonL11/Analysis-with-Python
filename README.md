@@ -1,4 +1,6 @@
 # Data Scrapy and Analysis for The Pandemic of Covid-19
+![covid19](/image/Coronavirus%20complication.jpg)
+
 This project aims to analyze and understand the spread of coronavirus throughout the world. Covid-19 is the official name of this virus which named by World Health Organization.
 
 Coronaviruses are types of viruses that typically affect the respiratory tracts of birds and mammals, including humans. Doctors associate them with the common cold, bronchitis, pneumonia, and severe acute respiratory syndrome (SARS), and they can also affect the gut. These viruses are typically responsible for common colds more than serious diseases.
@@ -26,6 +28,6 @@ All the code needed to run is in [Covid19 Pandemic analysis.ipynb](https://githu
 * ``Performed data in Dataframe using Pandas.``
 * ``Visualization of results using Plotly, Matplotlib and Pyecharts.``
 # Outcome
-*``Get to know the situation of continents and countries towards the pandemic.``
-*``Understand the spread of virus in every single country``.
-*``Visualization over the world map.``
+* ``Get to know the situation of continents and countries towards the pandemic.``
+* ``Understand the spread of virus in every single country``.
+* ``Visualization over the world map.``
