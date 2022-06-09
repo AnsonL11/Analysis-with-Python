@@ -14,7 +14,7 @@ This virus is a contagious coronavirus that outburst from Wuhan in China. This n
 # Dependencies
 **Code to run:** [Covid19 Pandemic analysis.ipynb](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/Covid19%20Pandemic%20analysis.ipynb).
 
-**Visualization:** [Click the Link here](https://nbviewer.org/github/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/Covid19%20Pandemic%20analysis.ipynb).
+**Visualization:** [nbviewer](https://nbviewer.org/github/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/Covid19%20Pandemic%20analysis.ipynb).
 
 # Import Libraries for web scraping:
 * ``pip``
