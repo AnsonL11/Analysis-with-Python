@@ -1,36 +1,43 @@
 # Data Scrapy, Analysis and Visualization for The Pandemic of Covid-19
 ![covid19](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/graphs/Coronavirus%20complication.jpg)
-
-This project aims to analyze and understand the spread of coronavirus throughout the world. Covid-19 is the official name of this virus which named by World Health Organization.
-
-Coronaviruses are types of viruses that typically affect the respiratory tracts of birds and mammals, including humans. Doctors associate them with the common cold, bronchitis, pneumonia, and severe acute respiratory syndrome (SARS), and they can also affect the gut. These viruses are typically responsible for common colds more than serious diseases.
+# Overview
+This project aims to analyze and understand the spread of coronavirus throughout the world. Covid-19 is the official name of this virus which named by World Health Organization. This project used data Scraping as a technique to retrieve large amounts of data from the website. [Link](https://news.qq.com/zt2020/page/feiyan.htm#/) The data stored by web Scrapping is an unstructured format, it need to convert the unstructured into structured data for Data analysis and exploration.
+# What is COVID-19
+Coronaviruses (COVID-19) are types of viruses that typically affect the respiratory tracts of birds and mammals, including humans. Doctors associate them with the common cold, bronchitis, pneumonia, and severe acute respiratory syndrome (SARS), and they can also affect the gut. These viruses are typically responsible for common colds more than serious diseases.
 
 This virus is a contagious coronavirus that outburst from Wuhan in China. This new strain of virus has led to a dramatic loss of human life worldwide and presents an unprecedented challenge to public health, food systems and the world of work. This dataset will help us understand the spread of Covid-19 aroud the world.
 
-# Sources
-Website: https://news.qq.com/zt2020/page/feiyan.htm#/
+# Environment
+* ``Python 3.8``
+* ``Jupyter Notebook``
+
 # Dependencies
 All the code needed to run is in [Covid19 Pandemic analysis.ipynb](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/b11d624230aedeb9478be3dc908b32c58530d0fa/Covid19%20Pandemic%20analysis.ipynb).
 
-**Jupyter nbviewer** file is here [Click the Link](https://nbviewer.org/urls/gist.githubusercontent.com/AnsonL11/5119423ae12bb04e96655bc9b0cde896/raw/08a16878fb817292b66a387e4dbd859d2a704770/Covid-19.ipynb#).
+**Visualization:** [Click the Link here](https://nbviewer.org/urls/gist.githubusercontent.com/AnsonL11/5119423ae12bb04e96655bc9b0cde896/raw/08a16878fb817292b66a387e4dbd859d2a704770/Covid-19.ipynb#).
 
-# Import Libraries:
-* ``Requests``
-* ``Pandas``
+# Import Libraries for web scraping:
+* ``pip``
+* ``Requests: pip install requests ``
+* ``Pandas.``
+* ``csv``
+# Import Libraries for data visualization
 * ``Matplotlib``
-* ``pprint``
-* ``Json``
 * ``Plotly``
 * ``Plotly express``
 * ``Pyecharts``
-# Technologies
-* ``Data extracted from news.qq.com`` [Link](https://news.qq.com/zt2020/page/feiyan.htm#/).
-* ``Performed data in Dataframe using Pandas.``
-* ``Visualization of results using Plotly, Matplotlib and Pyecharts.``
+
+# Deployment statragies
+  1. Define the URL from the website, then check the respond of the URL. (Website: https://news.qq.com/zt2020/page/feiyan.htm#/)
+  2. Inspect the page to see under which tag the data want to collect is nested.
+  3. Find the information and extract
+  4. Store the data in csv format using Pandas
+  5. Visualize the results using Plotly, Matplotlib and Pyecharts.
+   
 # Outcome
-* ``Get to know the situation of continents and countries towards the pandemic.``
-* ``Understand the spread of virus in every single country``.
-* ``Visualization over the world map.``
+ 1. Get to know the situation of continents and countries towards the pandemic.
+ 2. Understand the spread of virus in every single country.
+ 3. Visualization over the world map.
 
 # Covid-19 Analysis and Visualization
 
