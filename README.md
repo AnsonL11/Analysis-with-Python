@@ -12,14 +12,14 @@ This virus is a contagious coronavirus that outburst from Wuhan in China. This n
 * ``Jupyter Notebook``
 
 # Dependencies
-All the code needed to run is in [Covid19 Pandemic analysis.ipynb](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/b11d624230aedeb9478be3dc908b32c58530d0fa/Covid19%20Pandemic%20analysis.ipynb).
+Code to run:[Covid19 Pandemic analysis.ipynb](https://github.com/AnsonL11/Coronavirus-Analysis-and-Visualization/blob/main/Covid19%20Pandemic%20analysis.ipynb).
 
 **Visualization:** [Click the Link here](https://nbviewer.org/urls/gist.githubusercontent.com/AnsonL11/5119423ae12bb04e96655bc9b0cde896/raw/08a16878fb817292b66a387e4dbd859d2a704770/Covid-19.ipynb#).
 
 # Import Libraries for web scraping:
 * ``pip``
 * ``Requests: pip install requests ``
-* ``Pandas.``
+* ``Pandas``
 * ``csv``
 # Import Libraries for data visualization
 * ``Matplotlib``
